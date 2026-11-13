@@ -1,7 +1,7 @@
 /*
  * =========================================================================================
  * PROJECT : 6-Digit 7-Segment Digital Clock with Calendar, Alarm, and Day Indicators
- * TARGET  : Arduino Nano (ATmega328P, 5V Logic)
+ * TARGET  : Arduino Board (ATmega328P, 5V Logic)
  * DRIVERS : 3x 74HC595 (24-bit Daisy Chain) + UDN2981 (+12V High-Side) + ULN2803A (GND Sink)
  * RTC     : DS1307 (I2C Real-Time Clock Module)
  * DEMO    : https://youtu.be/lr2jxXmumGY
