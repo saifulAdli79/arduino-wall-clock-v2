@@ -1,0 +1,48 @@
+#######################################
+# Syntax Coloring Map For SevenSegmentClock595
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+SevenSegmentClock595	KEYWORD1
+ClockMode	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+setButtons	KEYWORD2
+update	KEYWORD2
+setTime	KEYWORD2
+setDate	KEYWORD2
+setAlarm	KEYWORD2
+silenceAlarm	KEYWORD2
+showText	KEYWORD2
+setColon	KEYWORD2
+setAlarmIndicator	KEYWORD2
+setDayIndicator	KEYWORD2
+getHour	KEYWORD2
+getMinute	KEYWORD2
+getSecond	KEYWORD2
+getDay	KEYWORD2
+getMonth	KEYWORD2
+getYear	KEYWORD2
+getDayOfWeek	KEYWORD2
+isAlarmEnabled	KEYWORD2
+isAlarmRinging	KEYWORD2
+getMode	KEYWORD2
+setMuxInterval	KEYWORD2
+setDateDisplayDuration	KEYWORD2
+updateShiftRegisters	KEYWORD2
+shiftByteFast	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+MODE_NORMAL	LITERAL1
+MODE_SET_TIME	LITERAL1
+MODE_SET_DATE	LITERAL1
+MODE_SET_ALARM	LITERAL1
+MODE_STATUS_MSG	LITERAL1
+
