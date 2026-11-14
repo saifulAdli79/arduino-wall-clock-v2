@@ -1,6 +1,6 @@
 /*
  * ClockWithAlarm.ino
- * 
+ * Copyright(c) 2026 Saiful Adli <saifuladli79gs@gmail.com>
  * Example sketch demonstrating full clock functionality using SevenSegmentClock595:
  * - 6-Digit Time Display (HH:MM:SS)
  * - Automatic Periodic Calendar Display (DD MM YY) at the end of each minute
